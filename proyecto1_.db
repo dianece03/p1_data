@@ -1,0 +1,11 @@
+use proyecto_individual;
+select avg(precio) from precios_semana
+where sucursal_id='9-1-688'
+
+
+
+ 
+  
+
+
+
